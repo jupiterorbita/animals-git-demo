@@ -1,10 +1,1 @@
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
-console.log("🐶🐶🐶🐶🐶🐶");
-console.log("🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛");
-console.log("🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛🐈‍⬛");
-console.log("🐍🐍🐍🐍🐍🐍🐍");
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
-console.log("🦝🦝🦝🦝🦝🦝🦝🦝");
+console.log("this is my file now");
